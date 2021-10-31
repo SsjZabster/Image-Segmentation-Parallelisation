@@ -1,0 +1,18 @@
+------------------------------------------------------
+Job is running on node  mscluster[13-16]------------------------------------------------------
+SLURM: sbatch is running on mscluster0.ms.wits.ac.za
+SLURM: job ID is 11553
+SLURM: submit directory is /home-mscluster/zbulbulia/mpitry
+SLURM: number of nodes allocated is 4
+SLURM: number of cores is 4
+SLURM: job name is neeem
+------------------------------------------------------
+291600  dfawfa  0100 
+291600  dfawfa  0300 
+291600  dfawfa  0200 
+291600  dfawfa  02200 
+291600  dfawfa  03300 
+Processing time: 5.527522 (ms)
+0.21 Mpixels/sec
+Overhead TIme: 0.055525 (ms) 
+TOTAL TIME: 5.583047 (ms)
